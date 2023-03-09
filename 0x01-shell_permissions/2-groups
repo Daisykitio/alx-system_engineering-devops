@@ -1,2 +1,2 @@
 #!/bin/bash
-gr o up
+groups $USER|tr'''\n'
